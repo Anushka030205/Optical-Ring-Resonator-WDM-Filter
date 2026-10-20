@@ -126,9 +126,8 @@ run('simulation/matlab/triple_ring_add_drop.m')
 
 ## Authors
 
-Utkarsh, Anushka Vishal Chandergi, Aditi Singh, Aryan Sethi, Elroy Caris R
-Department of Electronics and Communication Engineering, VIT Vellore
+Anushka Vishal Chandergi
 
 ## License
 
-Academic project for the Optical Fiber Communications course at VIT Vellore.
+Academic project for the Optical Fiber Communications course.
